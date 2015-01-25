@@ -18,7 +18,7 @@
 
 			<div class="site-info">
 				<?php do_action( 'greatbeauty_credits' ); ?>
-                                <a href="http://cristiano.zanca.it/theme/">Great Beauty Theme</a> - Italian Style -
+                                <a href="https://github.com/altrovideo/gbeauty">Great Beauty Theme</a> - Italian Style -
 				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'greatbeauty' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'greatbeauty' ), 'WordPress' ); ?></a>
 			</div><!-- .site-info -->
 		</footer><!-- #colophon -->
